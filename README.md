@@ -1,13 +1,13 @@
 ## Hi there 👋 My name is Kidus Tegene
 ### About me
-- 📚 I'm a rising sophomore at Washington and Lee University studying Computer Science and Math.
-- 🌱 Interested and in Web Development, Data Science and Machine Learning.
+- 📚 I'm a sophomore at Washington and Lee University studying Computer Science and Math
+- 🌱 Interested in data science, full-stack development (with a focus on backend) and cloud technologiges
 - 📫 How to reach me: kidusategene@gmail.com
 
 ### Programming languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,r,c&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,go,javascript,r,c&theme=light" />
   </a>
 </p>
 
