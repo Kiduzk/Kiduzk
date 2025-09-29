@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Kidus Tegene
 ### About me
 - 📚 I'm a rising junior at Washington and Lee University studying Computer Science and Math
-- 🌱 Interested in data science, full-stack development and cloud technologiges
+- 🌱 Interested in data science, full-stack development and cloud technologies
 - 📫 How to reach me: kidusategene@gmail.com
 
 ### Programming languages
